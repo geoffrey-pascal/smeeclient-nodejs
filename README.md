@@ -2,7 +2,7 @@
 
 Usage two environment variable:
 
-- SMESOURCE: URL of the Smee channel
+- SMEESOURCE: URL of the Smee channel
 - HTTPTARGET: URL of the local target
 
 Disable TLS verification
