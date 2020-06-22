@@ -1,6 +1,6 @@
 const SmeeClient = require('smee-client')
 
-const SMESOURCE=process.env.SMEESOURCE
+const SMEESOURCE=process.env.SMEESOURCE
 const HTTPTARGET=process.env.HTTPTARGET
 
 const smee = new SmeeClient({
